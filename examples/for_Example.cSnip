@@ -1,0 +1,14 @@
+class for_test{
+	public boolean m1()
+	{
+		for(int ${a}=0; ${a}<=10; ${a}++)
+		{
+			${a}-=2;
+		}
+		String ${s};
+		for(String ${a} : ${someString} )
+		{
+			${s}+=${a};
+		}
+	}
+}

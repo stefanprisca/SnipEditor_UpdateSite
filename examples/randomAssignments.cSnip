@@ -1,0 +1,37 @@
+//int ${va1};
+/*
+ * this is a comment
+ */
+ ${import(javax.swing.JFrame)}
+public int m1(){
+	String ${s};
+}
+
+class c1{ 
+	static String m2(){
+		return ${p}.doSomething();
+		
+	}
+}
+
+
+
+class myclass 
+{
+	String ${a} = new String("String");
+	int [] ${b}={4 , 2 , 3, 20, 11 };
+	int [] ${c}=new int[20];
+	
+	String meth1(int ${parameter1}, int ${parameter2},
+		int ${parameter3},int ${parameter4}	)
+	{ 
+		
+		${parent}.add(${label});
+		${p}=${s};
+		${p}+=1;
+		int ${s}=0;
+		${p}=${p}.someMethod( ${parameter1} );
+		return "some String"
+	}
+	
+} 
