@@ -1,17 +1,7 @@
-
-//${import( javax.swing.${JFrame})}
-
-package p1{
-	
-}
-
-		
-
-
 class myclass 
 {
 	String ${a} = new String("String");
-	//a public static ${sometype} ${f}; 
+	public static ${sometype} ${f}; 
  	int [] ${b}=new int[55];   
 	
 	Integer ${something}=1+2+3+3+4;   
