@@ -1,4 +1,4 @@
-SnipEditor_UpdateSite
+SnipMatch_UpdateSite
 =====================
 In order to install and use this, follow the steps: <br>
   (1)clone the repo to the local pc<br>
